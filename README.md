@@ -44,3 +44,19 @@ Esse dataset contém um conjunto de informações sobre o compartilhamento de bi
 Existem informações sobre as condições climáticas e dados sobre a locação das bicicletas.
 
 ---
+
+### Trabalho Prático - 2
+
+O objetivo é exercitar os seguintes conceitos trabalhados no módulo 2:
+
+- Realizar a análise de uma base de dados real em Python.
+
+Esta atividade tem como objetivo analisar os dados coletados de compartilhamento de bicicletas em uma cidade, coletados pela Universidade do Porto.
+
+O uso de bicicletas como meio de transporte ganhou muita força nos últimos anos, seja por questões ambientais, de saúde ou até mesmo de infraestrutura de trânsito.
+
+Para incentivar seu uso, cidades em todo o mundo têm implementado programas de compartilhamento de bicicleta. Nesses sistemas, elas são retiradas e devolvidas em quiosques automatizados que ficam espalhados por diversos pontos da cidade.
+
+As plataformas de compartilhamento de bicicletas costumam coletar diversos tipos de dados, como a duração da viagem, as localizações iniciais e finais dos percursos, entre outros. Esses dados, em conjunto com informações sobre o clima, o trânsito e o relevo, por exemplo, possibilitam uma **análise mais robusta do compartilhamento de bicicletas**.
+
+---
