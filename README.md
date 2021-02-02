@@ -60,3 +60,15 @@ Para incentivar seu uso, cidades em todo o mundo têm implementado programas de 
 As plataformas de compartilhamento de bicicletas costumam coletar diversos tipos de dados, como a duração da viagem, as localizações iniciais e finais dos percursos, entre outros. Esses dados, em conjunto com informações sobre o clima, o trânsito e o relevo, por exemplo, possibilitam uma **análise mais robusta do compartilhamento de bicicletas**.
 
 ---
+
+### Desafio - 2
+
+O objetivo é exercitar os seguintes conceitos trabalhados no módulo 2:
+
+- Análise exploratória dos dados (EDA - Exploratory Data Analysis).
+- Comparação e treinamento de modelos de classificação.
+
+Para este desafio será utilizado o dataset *"banknote-authentication"*.<br>
+Este dataset consiste de atributos contínuos (*variance, skewness, curtosis e entropy*) extraídos de imagens de cédulas reais e falsificadas através de uma etapa de processamento de sinais (*transformação de Wavelet*), além da indicação se o exemplo é de uma cédula genuína (*class = 0*) ou falsificada (*class = 1*).
+
+---
