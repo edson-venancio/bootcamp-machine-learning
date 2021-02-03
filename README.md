@@ -93,3 +93,14 @@ Para o problema de classificação, usaremos a base *"bloodtransf"* e um **SVM**
 Para o problema de clusterização, vamos utilizar a base *"wine"* e o **Algoritmo K-Means**.
 
 ---
+
+### Desafio - 3
+
+O objetivo é exercitar os seguintes conceitos trabalhados no módulo 3:
+
+- Trabalhar os conceitos vistos sobre métricas de desempenho, técnicas de validação e sintonia de hiperparâmetros.
+- Olhar para o fluxo completo de seleção de um modelo de aprendizado.
+
+Neste desafio, vamos usar a tarefa de classificação para validar um modelo, otimizar os hiperparâmetros desse modelo e avaliar o resultado encontrado de acordo com algumas métricas de desempenho vistas durante o módulo.
+
+---
