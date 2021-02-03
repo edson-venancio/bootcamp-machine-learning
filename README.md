@@ -72,3 +72,24 @@ Para este desafio será utilizado o dataset *"banknote-authentication"*.<br>
 Este dataset consiste de atributos contínuos (*variance, skewness, curtosis e entropy*) extraídos de imagens de cédulas reais e falsificadas através de uma etapa de processamento de sinais (*transformação de Wavelet*), além da indicação se o exemplo é de uma cédula genuína (*class = 0*) ou falsificada (*class = 1*).
 
 ---
+
+### Trabalho Prático - 3
+
+O objetivo é exercitar os seguintes conceitos trabalhados no módulo 3:
+
+- Exercitar conceitos sobre medidas de desempenho para regressão.
+- Modelar um problema como uma tarefa de regressão.
+- Avaliar um modelo de regressão.
+- Exercitar conceitos sobre medidas de desempenho para classificação.
+- Modelar um problema como uma tarefa de classificação.
+- Avaliar um modelo de classificação.
+- Exercitar conceitos sobre medidas de desempenho para clusterização.
+- Modelar um problema como uma tarefa de clusterização.
+- Avaliar um modelo de clusterização.
+
+Nesta atividade, vamos exercitar conceitos sobre medidas de desempenho vistas em aula, a partir da modelagem de 3 problemas diferentes.<br>
+Para o problema de regressão, usaremos a base *"diabetes-numeric"* e uma **Regressão Linear**.<br> 
+Para o problema de classificação, usaremos a base *"bloodtransf"* e um **SVM**.<br> 
+Para o problema de clusterização, vamos utilizar a base *"wine"* e o **Algoritmo K-Means**.
+
+---
