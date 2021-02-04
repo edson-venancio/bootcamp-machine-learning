@@ -104,3 +104,15 @@ O objetivo é exercitar os seguintes conceitos trabalhados no módulo 3:
 Neste desafio, vamos usar a tarefa de classificação para validar um modelo, otimizar os hiperparâmetros desse modelo e avaliar o resultado encontrado de acordo com algumas métricas de desempenho vistas durante o módulo.
 
 ---
+
+### Trabalho Prático - 4
+
+O objetivo é exercitar os seguintes conceitos trabalhados no módulo 4:
+
+- Classificar imagens através do uso de Rede Neural.
+
+Nesta atividade, vamos treinar um modelo de rede neural para classificação de imagens de roupas.<br> 
+Teremos uma visão geral do uso do **TensorFlow**.<br>
+Vamos usar o **Keras** para construir e treinar modelos no Tensorflow.
+
+---
