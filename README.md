@@ -116,3 +116,13 @@ Teremos uma visão geral do uso do **TensorFlow**.<br>
 Vamos usar o **Keras** para construir e treinar modelos no Tensorflow.
 
 ---
+
+### Desafio - 4
+
+O objetivo é exercitar os seguintes conceitos trabalhados no módulo 4:
+
+- Classificar imagens pelo uso do Deep Learning (*Keras e Tensorflow*).
+
+Neste desafio, vamos treinar um modelo de rede neural para classificação de imagens de flores usando o **Keras** e o **TensorFlow**.
+
+---
