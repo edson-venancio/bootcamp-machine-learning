@@ -126,3 +126,20 @@ O objetivo é exercitar os seguintes conceitos trabalhados no módulo 4:
 Neste desafio, vamos treinar um modelo de rede neural para classificação de imagens de flores usando o **Keras** e o **TensorFlow**.
 
 ---
+
+### Desafio Final
+
+O objetivo é exercitar os seguintes conceitos trabalhados em todos os módulos do bootcamp:
+
+- Pré-processamento dos dados.
+- Detecção de anomalias.
+- Processamento dos dados.
+- Correlações.
+- Redução da dimensionalidade.
+- Algoritmos supervisionados e não supervisionados.
+
+Neste desafio final, vamos praticar boa parte dos conceitos mostrados no decorrer de todos os módulos do Bootcamp para a análise e a classificação de veículos do conhecido dataset *"cars"*.<br>
+Esse dataset contém um conjunto de informações sobre vários veículos pesquisados. Existem dados, por exemplo, sobre a potência do veículo, sobre a origem e cilindradas cúbicas.<br>
+Para essa análise, utilizaremos os conceitos de redução da dimensionalidade com o **PCA**, clusterização com o **K-Means** e classificações com **algoritmos supervisionados**.
+
+---
