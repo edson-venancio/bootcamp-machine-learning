@@ -143,3 +143,5 @@ Esse dataset contém um conjunto de informações sobre vários veículos pesqui
 Para essa análise, utilizaremos os conceitos de redução da dimensionalidade com o **PCA**, clusterização com o **K-Means** e classificações com **algoritmos supervisionados**.
 
 ---
+
+#### FIM.
